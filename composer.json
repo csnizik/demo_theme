@@ -1,0 +1,11 @@
+{
+  "name": "pods/demo_theme",
+  "description": "A custom theme for my Drupal site.",
+  "type": "drupal-theme",
+  "require": {},
+  "extra": {
+    "branch-alias": {
+      "dev-main": "1.x-dev"
+    }
+  }
+}

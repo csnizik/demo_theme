@@ -1,0 +1,5 @@
+name: Pods Theme
+type: theme
+description: 'A custom theme for my Drupal site.'
+core_version_requirement: ^8 || ^9
+base theme: classy
