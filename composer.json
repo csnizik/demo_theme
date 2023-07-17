@@ -1,6 +1,6 @@
 {
   "name": "pods/demo_theme",
-  "description": "A custom theme for my Drupal site.",
+  "description": "This is just a demo theme that does nothing.",
   "type": "drupal-theme",
   "require": {},
   "extra": {
