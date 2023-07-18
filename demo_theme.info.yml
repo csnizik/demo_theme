@@ -2,4 +2,4 @@ name: Pods Theme
 type: theme
 description: 'This is just a demo theme that does nothing.'
 core_version_requirement: ^8 || ^9
-base theme: classy
+base theme: gin
